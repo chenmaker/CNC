@@ -1,0 +1,6 @@
+steps / mm：steps_per_mm =（steps_per_revolution * microsteps）/ mm_per_rev
+步每毫米=（步每圈*微步）/毫米每圈
+步每毫米=(步進馬達的圈數*驅動晶片的微步)/螺桿的螺距或是同步螺的齒數
+$100=400.00
+$101=400.00
+$102=400.00

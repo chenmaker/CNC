@@ -1,0 +1,3 @@
+單獨從grbl-master把grbl取出來加壓縮成ZIP再匯入Arduino
+主控版和螢幕程式是分開的
+
